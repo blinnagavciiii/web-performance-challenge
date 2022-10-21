@@ -29,9 +29,9 @@ body {
   position: relative;
 }
 
-.main__content img {
+/* .main__content img {
   width: 100%;
-}
+} */
   
 .div1 { grid-area: 1 / 1 / 3 / 2; }
 .div2 { grid-area: 1 / 2 / 2 / 3; }
